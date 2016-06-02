@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [02/Jun/2016:22:52:47 +0200] "GET /HelloMavenSpringWebMVC/hello/index HTTP/1.1" 200 118 http-bio-8080-exec-1 1253
-0:0:0:0:0:0:0:1 - - [02/Jun/2016:22:52:55 +0200] "GET /HelloMavenSpringWebMVC/hello/ HTTP/1.1" 404 949 http-bio-8080-exec-3 7
-0:0:0:0:0:0:0:1 - - [02/Jun/2016:22:52:58 +0200] "GET /HelloMavenSpringWebMVC/hello/ HTTP/1.1" 404 949 http-bio-8080-exec-4 5
-0:0:0:0:0:0:0:1 - - [02/Jun/2016:22:53:07 +0200] "GET /HelloMavenSpringWebMVC/hello/index HTTP/1.1" 200 118 http-bio-8080-exec-5 6
